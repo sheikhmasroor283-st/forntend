@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        AWS_ACCESS_KEY_ID     = 'AKIA6MSR57Z3SA6FCOMC'      // 🔑 Replace with your Access Key
-        AWS_SECRET_ACCESS_KEY = 'crLeTjSVqPMdVVVKr69paPDwbHH4QJW8tIY4lpVJ'      // 🔑 Replace with your Secret Key
+        AWS_ACCESS_KEY_ID     = '      // 🔑 Replace with your Access Key
+        AWS_SECRET_ACCESS_KEY = ''      // 🔑 Replace with your Secret Key
         AWS_DEFAULT_REGION    = 'us-east-1'
         S3_BUCKET             = 'ahmedmks'       // ✅ Replace with actual bucket
         CLOUDFRONT_ID         = 'E1SHXTVRRC2M9V'           // ✅ Replace with your CloudFront distribution ID
